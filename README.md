@@ -1,0 +1,2 @@
+# Unclosed Parenthesis in Function Definition
+This example demonstrates a common Python error: an unclosed parenthesis in a function definition.  The code will result in a `SyntaxError` because Python's parser expects a closing parenthesis to match the opening one.  The solution involves simply adding the missing closing parenthesis.
